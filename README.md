@@ -4,5 +4,5 @@
 <br />
 <p><strong><img src="https://www.flightmetals.com/wp-content/uploads/2018/05/titanium_bars.jpg" alt="" width="500" height="375" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
 <center>
-[Read More](https://flightmetalsblog.github.io/titanium-6242-ams-4919-sheet-plate.html)
+<center><strong><a href="https://flightmetalsblog.github.io/titanium-6242-ams-4919-sheet-plate.html">Read more</a></strong></center>
 </center>
