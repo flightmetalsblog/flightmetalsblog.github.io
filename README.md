@@ -7,7 +7,7 @@
 <center><strong><a href="https://flightmetalsblog.github.io/ams-4911-titanium-6al-4v-sheet-plate.html">Read more</a></strong></center>
 </center>
 
-<br />
+<br /><br />
 
 <center><span style="margin-bottom: 15px; text-align: center; font-size: 24px;"><strong>How Titanium 6242 Helps Aerospace Manufacturers?</strong></span></center>
 <br />
